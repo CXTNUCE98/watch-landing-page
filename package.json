@@ -1,0 +1,36 @@
+{
+  "name": "clock-landing-page",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@iconify-json/carbon": "^1.2.16",
+    "@iconify-json/ep": "^1.2.3",
+    "@nuxtjs/i18n": "^10.2.1",
+    "boxicons": "^2.1.4",
+    "dayjs": "^1.11.19",
+    "nuxt": "^3.11.1",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@antfu/utils": "^9.3.0",
+    "@element-plus/nuxt": "^1.0.8",
+    "@nuxt/image": "^1.11.0",
+    "@nuxtjs/color-mode": "^4.0.0",
+    "@types/katex": "^0.16.8",
+    "@types/node": "^20.11.0",
+    "@unocss/nuxt": "^66.5.9",
+    "@unocss/reset": "^66.5.10",
+    "@vueuse/nuxt": "^10.9.0",
+    "citty": "^0.1.6",
+    "ofetch": "^1.5.1",
+    "unocss": "^66.5.9"
+  }
+}
