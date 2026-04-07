@@ -6,16 +6,22 @@ export default defineNuxtConfig({
   ssr: true,
   srcDir: "src/",
 
+  components: [
+    { path: "~/components/common", prefix: "Base" },
+    { path: "~/components/layout", prefix: "Layout" },
+    { path: "~/components/sections", prefix: "" },
+  ],
+
   imports: {
     dirs: ["constants", "composables"],
   },
 
   app: {
     head: {
-      title: "Luyện Thi Toán Học",
+      title: "LUXE Timepieces - Luxury Watches",
       meta: [
         { name: "viewport", content: "width=device-width, initial-scale=1" },
-        { name: "description", content: "Hệ thống luyện thi toán trực tuyến" },
+        { name: "description", content: "Discover luxury watches from the world's finest brands. Timeless elegance and precision craftsmanship." },
       ],
     },
     baseURL: "/",
@@ -26,18 +32,25 @@ export default defineNuxtConfig({
     "@vueuse/nuxt",
     "@unocss/nuxt",
     "@nuxtjs/i18n",
-    "@nuxt/image",
     "@nuxtjs/color-mode",
+    "@element-plus/nuxt",
   ],
+  
+  elementPlus: {},
+  
   colorMode: {
     classSuffix: "",
     preference: "light",
     fallback: "light",
   },
+  
   i18n: {
     defaultLocale: "vi",
     langDir: "locales",
-    locales: [{ code: "vi", name: "Tiếng Việt", file: "vi.json" }],
+    locales: [
+      { code: "vi", name: "Tiếng Việt", file: "vi.json" },
+      { code: "en", name: "English", file: "en.json" }
+    ],
   },
 
   css: ["@unocss/reset/tailwind.css", "boxicons/css/boxicons.min.css"],

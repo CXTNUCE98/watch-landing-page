@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "tagline": "Luxury Timepieces",
+    "collections": "Collections",
+    "featured": "Featured",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "New Collection 2024",
+    "title": {
+      "part1": "Timeless",
+      "part2": "Elegance"
+    },
+    "subtitle": "Discover luxury watches from the world's most prestigious brands",
+    "stats": {
+      "brands": "Brands",
+      "watches": "Watches",
+      "authentic": "Authentic"
+    },
+    "cta": {
+      "primary": "Explore Collection",
+      "secondary": "Our Story"
+    },
+    "watch": {
+      "label": "Premium Collection"
+    },
+    "badges": {
+      "authentic": "100% Authentic",
+      "shipping": "Free Shipping"
+    }
+  },
+  "features": {
+    "items": [
+      {
+        "title": "100% Authentic",
+        "description": "All watches come with official certification and manufacturer warranty"
+      },
+      {
+        "title": "5-Year Warranty",
+        "description": "International 5-year warranty on all luxury timepieces"
+      },
+      {
+        "title": "Free Shipping",
+        "description": "Free insured shipping worldwide with luxury packaging"
+      },
+      {
+        "title": "30-Day Returns",
+        "description": "Free returns within 30 days if you're not completely satisfied"
+      }
+    ]
+  },
+  "collections": {
+    "subtitle": "Discover",
+    "title": "Our Collections",
+    "quickView": "Quick View",
+    "viewAll": "View All"
+  },
+  "watches": {
+    "badges": {
+      "new": "New",
+      "bestseller": "Bestseller",
+      "limited": "Limited"
+    },
+    "items": [
+      {
+        "name": "Royal Oak Chronograph",
+        "brand": "Audemars Piguet",
+        "price": "$28,500"
+      },
+      {
+        "name": "Submariner Date",
+        "brand": "Rolex",
+        "price": "$14,200"
+      },
+      {
+        "name": "Nautilus 5711",
+        "brand": "Patek Philippe",
+        "price": "$35,800"
+      },
+      {
+        "name": "Speedmaster Moonwatch",
+        "brand": "Omega",
+        "price": "$6,350"
+      }
+    ]
+  },
+  "featured": {
+    "subtitle": "Exclusive",
+    "title": "Featured Products",
+    "badge": "Limited Edition",
+    "product": {
+      "name": "Overseas Tourbillon",
+      "description": "High-end tourbillon watch with groundbreaking design and handcrafted movement",
+      "price": "$52,000",
+      "cta": "Shop Now"
+    },
+    "items": [
+      {
+        "brand": "Rolex",
+        "name": "Daytona Cosmograph",
+        "description": "An icon of speed and elegance",
+        "price": "$18,500"
+      },
+      {
+        "brand": "Cartier",
+        "name": "Santos de Cartier",
+        "description": "Elegant and timeless design",
+        "price": "$7,800"
+      },
+      {
+        "brand": "IWC",
+        "name": "Portugieser Chronograph",
+        "description": "Precision meets elegance",
+        "price": "$9,200"
+      }
+    ]
+  },
+  "about": {
+    "subtitle": "Our Story",
+    "title": "Over 20 Years of Watch Passion",
+    "description": "We are proud to be an authorized dealer of over 50 top watch brands worldwide, bringing you authentic products with the finest service.",
+    "highlights": [
+      {
+        "title": "Official Partner",
+        "description": "Authorized dealer for Rolex, Omega, Cartier, Patek Philippe"
+      },
+      {
+        "title": "Premium Service",
+        "description": "Expert 1-on-1 consultation, luxury shopping experience"
+      },
+      {
+        "title": "Service Center",
+        "description": "International standard warranty and repair center"
+      }
+    ],
+    "cta": "Learn More"
+  },
+  "contact": {
+    "subtitle": "Get in Touch",
+    "title": "Contact Us",
+    "description": "Leave your information and we'll get back to you with personalized consultation",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email",
+      "emailPlaceholder": "email@example.com",
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Vietnam's premier luxury watch retailer. Bringing you authentic timepieces and world-class service since 2004.",
+    "collections": {
+      "title": "Collections",
+      "classic": "Classic Watches",
+      "sport": "Sport Watches",
+      "luxury": "Luxury Watches",
+      "limited": "Limited Editions"
+    },
+    "service": {
+      "title": "Customer Service",
+      "warranty": "Warranty Policy",
+      "shipping": "Shipping & Delivery",
+      "returns": "Returns & Refunds",
+      "faq": "FAQ"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "123 Nguyen Hue, District 1, Ho Chi Minh City",
+      "phone": "+84 123 456 789",
+      "email": "info@luxe-timepieces.com"
+    },
+    "copyright": "© {year} LUXE Timepieces. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

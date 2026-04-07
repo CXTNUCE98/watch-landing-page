@@ -1,10 +1,7 @@
-# Kế hoạch đưa code lên GitHub
+# Kế hoạch cập nhật tên dự án và đẩy code
 
-1. [ ] Khởi tạo git repository (`git init`) trong thư mục hiện tại.
-2. [ ] Thêm remote URL trỏ đến repository của bạn: `https://github.com/CXTNUCE98/Clock-landing-page.git`
-3. [ ] Đổi tên branch thành `main` (hoặc `master`).
-4. [ ] Thêm toàn bộ các file trong workspace vào staging (`git add .`).
-5. [ ] Commit file với message (ví dụ: `Initial commit`).
-6. [ ] Đẩy code lên GitHub (`git push -u origin main`).
+1. [ ] Cập nhật lại Git Remote URL trỏ về `https://github.com/CXTNUCE98/watch-landing-page.git`.
+2. [ ] Commit các thay đổi mới do bạn vừa rename project và thiết lập `nuxt.config.ts`, `index.vue`.
+3. [ ] Đẩy code lên GitHub (`git push`).
 
 Người dùng vui lòng xác nhận kế hoạch để tôi tiến hành nhé!

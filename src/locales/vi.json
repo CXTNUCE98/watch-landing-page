@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "tagline": "Luxury Timepieces",
+    "collections": "Bộ sưu tập",
+    "featured": "Nổi bật",
+    "about": "Về chúng tôi",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "badge": "Bộ sưu tập mới 2024",
+    "title": {
+      "part1": "Đẳng cấp",
+      "part2": "Sang trọng"
+    },
+    "subtitle": "Khám phá bộ sưu tập đồng hồ cao cấp từ những thương hiệu danh tiếng nhất thế giới",
+    "stats": {
+      "brands": "Thương hiệu",
+      "watches": "Đồng hồ",
+      "authentic": "Chính hãng"
+    },
+    "cta": {
+      "primary": "Xem bộ sưu tập",
+      "secondary": "Câu chuyện của chúng tôi"
+    },
+    "watch": {
+      "label": "Premium Collection"
+    },
+    "badges": {
+      "authentic": "100% Chính hãng",
+      "shipping": "Miễn phí vận chuyển"
+    }
+  },
+  "features": {
+    "items": [
+      {
+        "title": "Chính hãng 100%",
+        "description": "Tất cả đồng hồ đều được chứng nhận và bảo hành chính hãng từ nhà sản xuất"
+      },
+      {
+        "title": "Bảo hành 5 năm",
+        "description": "Chế độ bảo hành quốc tế 5 năm cho tất cả sản phẩm cao cấp"
+      },
+      {
+        "title": "Giao hàng miễn phí",
+        "description": "Miễn phí vận chuyển toàn quốc với hộp đựng sang trọng và bảo hiểm"
+      },
+      {
+        "title": "Đổi trả 30 ngày",
+        "description": "Đổi trả miễn phí trong 30 ngày nếu không hài lòng với sản phẩm"
+      }
+    ]
+  },
+  "collections": {
+    "subtitle": "Khám phá",
+    "title": "Bộ Sưu Tập",
+    "quickView": "Xem nhanh",
+    "viewAll": "Xem tất cả"
+  },
+  "watches": {
+    "badges": {
+      "new": "Mới",
+      "bestseller": "Bán chạy",
+      "limited": "Giới hạn"
+    },
+    "items": [
+      {
+        "name": "Royal Oak Chronograph",
+        "brand": "Audemars Piguet",
+        "price": "$28,500"
+      },
+      {
+        "name": "Submariner Date",
+        "brand": "Rolex",
+        "price": "$14,200"
+      },
+      {
+        "name": "Nautilus 5711",
+        "brand": "Patek Philippe",
+        "price": "$35,800"
+      },
+      {
+        "name": "Speedmaster Moonwatch",
+        "brand": "Omega",
+        "price": "$6,350"
+      }
+    ]
+  },
+  "featured": {
+    "subtitle": "Độc quyền",
+    "title": "Sản Phẩm Nổi Bật",
+    "badge": "Phiên bản giới hạn",
+    "product": {
+      "name": "Overseas Tourbillon",
+      "description": "Đồng hồ tourbillon cao cấp với thiết kế đột phá và bộ máy thủ công tinh xảo",
+      "price": "$52,000",
+      "cta": "Mua ngay"
+    },
+    "items": [
+      {
+        "brand": "Rolex",
+        "name": "Daytona Cosmograph",
+        "description": "Biểu tượng của tốc độ và sự sang trọng",
+        "price": "$18,500"
+      },
+      {
+        "brand": "Cartier",
+        "name": "Santos de Cartier",
+        "description": "Thanh lịch và timeless design",
+        "price": "$7,800"
+      },
+      {
+        "brand": "IWC",
+        "name": "Portugieser Chronograph",
+        "description": "Precision meets elegance",
+        "price": "$9,200"
+      }
+    ]
+  },
+  "about": {
+    "subtitle": "Câu chuyện",
+    "title": "Hơn 20 Năm Đam Mê Đồng Hồ",
+    "description": "Chúng tôi tự hào là đại lý ủy quyền của hơn 50 thương hiệu đồng hồ hàng đầu thế giới, mang đến cho khách hàng những sản phẩm chính hãng với dịch vụ đẳng cấp nhất.",
+    "highlights": [
+      {
+        "title": "Đối tác chính thức",
+        "description": "Đại lý ủy quyền của các thương hiệu Rolex, Omega, Cartier, Patek Philippe"
+      },
+      {
+        "title": "Dịch vụ cao cấp",
+        "description": "Đội ngũ chuyên gia tư vấn 1-1, trải nghiệm mua sắm đẳng cấp"
+      },
+      {
+        "title": "Trung tâm bảo hành",
+        "description": "Trung tâm bảo hành và sửa chữa đạt tiêu chuẩn quốc tế"
+      }
+    ],
+    "cta": "Tìm hiểu thêm"
+  },
+  "contact": {
+    "subtitle": "Liên hệ",
+    "title": "Kết Nối Với Chúng Tôi",
+    "description": "Để lại thông tin, chúng tôi sẽ liên hệ tư vấn cho bạn",
+    "form": {
+      "name": "Họ tên",
+      "namePlaceholder": "Nguyễn Văn A",
+      "email": "Email",
+      "emailPlaceholder": "email@example.com",
+      "message": "Tin nhắn",
+      "messagePlaceholder": "Nội dung tin nhắn...",
+      "submit": "Gửi tin nhắn"
+    }
+  },
+  "footer": {
+    "description": "Nhà phân phối đồng hồ cao cấp hàng đầu Việt Nam. Mang đến những sản phẩm chính hãng và dịch vụ đẳng cấp từ năm 2004.",
+    "collections": {
+      "title": "Bộ sưu tập",
+      "classic": "Đồng hồ Classic",
+      "sport": "Đồng hồ Sport",
+      "luxury": "Đồng hồ Luxury",
+      "limited": "Phiên bản giới hạn"
+    },
+    "service": {
+      "title": "Hỗ trợ khách hàng",
+      "warranty": "Chính sách bảo hành",
+      "shipping": "Vận chuyển & giao nhận",
+      "returns": "Đổi trả & hoàn tiền",
+      "faq": "Câu hỏi thường gặp"
+    },
+    "contact": {
+      "title": "Liên hệ",
+      "address": "123 Nguyễn Huệ, Quận 1, TP.HCM",
+      "phone": "+84 123 456 789",
+      "email": "info@luxe-timepieces.com"
+    },
+    "copyright": "© {year} LUXE Timepieces. All rights reserved.",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản sử dụng"
+  }
+}
