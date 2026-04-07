@@ -1,7 +1,9 @@
 <script setup lang="ts">
+const { locale } = useI18n()
+
 useHead({
   htmlAttrs: {
-    lang: 'vi'
+    lang: computed(() => locale.value)
   }
 })
 </script>
@@ -37,6 +39,20 @@ h1, h2, h3, h4, h5, h6 {
 .page-leave-to {
   opacity: 0;
   filter: blur(5px);
+}
+
+/* View Transitions - circular reveal */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+::view-transition-old(root) {
+  z-index: 1;
+}
+::view-transition-new(root) {
+  z-index: 9999;
 }
 
 /* Custom scrollbar */

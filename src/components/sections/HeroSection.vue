@@ -8,16 +8,23 @@ const localePath = useLocalePath()
     <!-- Background Image with Overlay -->
     <div class="absolute inset-0">
       <div class="absolute inset-0 bg-gradient-to-b from-primary/70 via-primary/50 to-primary"></div>
-      <div class="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHBhdHRlcm4gaWQ9ImdyaWQiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHBhdGggZD0iTSAxMCAwIEwgMCAwIDAgMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0icmdiYSgyMTIsIDE3NSwgNTUsIDAuMDMpIiBzdHJva2Utd2lkdGg9IjEiLz48L3BhdHRlcm4+PC9kZWZzPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JpZCkiLz48L3N2Zz4=')] opacity-20"></div>
+      <div
+        class="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHBhdHRlcm4gaWQ9ImdyaWQiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHBhdGggZD0iTSAxMCAwIEwgMCAwIDAgMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0icmdiYSgyMTIsIDE3NSwgNTUsIDAuMDMpIiBzdHJva2Utd2lkdGg9IjEiLz48L3BhdHRlcm4+PC9kZWZzPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JpZCkiLz48L3N2Zz4=')] opacity-20">
+      </div>
     </div>
 
     <!-- Decorative Elements -->
     <div class="absolute top-1/4 left-10 w-72 h-72 bg-gold-500/5 rounded-full blur-3xl animate-float"></div>
-    <div class="absolute bottom-1/4 right-10 w-96 h-96 bg-gold-500/5 rounded-full blur-3xl animate-float" style="animation-delay: 2s;"></div>
+    <div class="absolute bottom-1/4 right-10 w-96 h-96 bg-gold-500/5 rounded-full blur-3xl animate-float"
+      style="animation-delay: 2s;"></div>
 
     <!-- Animated Circle -->
-    <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] border border-gold-500/10 rounded-full animate-rotate-360"></div>
-    <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] border border-gold-500/20 rounded-full animate-rotate-360" style="animation-direction: reverse;"></div>
+    <div
+      class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] border border-gold-500/10 rounded-full animate-rotate-360">
+    </div>
+    <div
+      class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] border border-gold-500/20 rounded-full animate-rotate-360"
+      style="animation-direction: reverse;"></div>
 
     <!-- Content -->
     <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
@@ -30,7 +37,8 @@ const localePath = useLocalePath()
             </p>
           </div>
 
-          <h1 class="text-5xl md:text-7xl lg:text-8xl font-heading font-bold text-white mb-6 leading-tight animate-fade-in-up">
+          <h1
+            class="text-5xl md:text-7xl lg:text-8xl font-heading font-bold text-white mb-6 leading-tight animate-fade-in-up">
             {{ t('hero.title.part1') }}
             <br>
             <span class="text-gradient-gold">{{ t('hero.title.part2') }}</span>
@@ -71,11 +79,12 @@ const localePath = useLocalePath()
           <!-- Decorative rings -->
           <div class="absolute w-[450px] h-[450px] border border-gold-500/20 rounded-full"></div>
           <div class="absolute w-[400px] h-[400px] border border-gold-500/30 rounded-full"></div>
-          
+
           <!-- Watch placeholder -->
           <div class="relative w-80 h-80 animate-float">
             <div class="absolute inset-0 bg-gradient-to-br from-gold-500/20 to-gold-600/20 rounded-full blur-2xl"></div>
-            <div class="relative w-full h-full border-4 border-gold-500/40 rounded-full flex items-center justify-center glass-effect">
+            <div
+              class="relative w-full h-full border-4 border-gold-500/40 rounded-full flex items-center justify-center glass-effect">
               <div class="text-center">
                 <i class='bx bx-watch text-9xl text-gold-500 animate-rotate-360' style="animation-duration: 30s;"></i>
                 <p class="text-gold-500 mt-4 text-sm tracking-wider uppercase">{{ t('hero.watch.label') }}</p>

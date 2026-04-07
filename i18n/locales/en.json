@@ -1,10 +1,20 @@
 {
   "nav": {
+    "tagline": "Luxury Timepieces",
+    "collections": "Collections",
+    "featured": "Featured",
+    "about": "About Us",
+    "contact": "Contact",
     "features": "Features",
     "howItWorks": "How It Works",
     "pricing": "Pricing",
     "testimonials": "Testimonials",
     "getStarted": "Get Started"
+  },
+  "mobileMenu": {
+    "quickActions": "Quick Actions",
+    "theme": "Theme",
+    "language": "Language"
   },
   "hero": {
     "badge": "Just Launched - Version 2.0",
@@ -14,6 +24,9 @@
     },
     "subtitle": "Track work hours, analyze productivity, and optimize your team's performance with ClockWork",
     "stats": {
+      "brands": "Brands",
+      "watches": "Watches",
+      "authentic": "Authentic",
       "users": "Users",
       "hoursTracked": "Hours Tracked",
       "uptime": "Uptime"
@@ -21,6 +34,13 @@
     "cta": {
       "primary": "Start Free",
       "secondary": "See How It Works"
+    },
+    "watch": {
+      "label": "Discover Now"
+    },
+    "badges": {
+      "authentic": "Authenticity Guaranteed",
+      "shipping": "Free Worldwide Shipping"
     },
     "preview": {
       "caption": "ClockWork Dashboard"
@@ -55,6 +75,106 @@
         "description": "Encrypted data, compliant with top security standards"
       }
     ]
+  },
+  "collections": {
+    "subtitle": "Explore the Collection",
+    "title": "Luxury Timepieces",
+    "quickView": "Quick View",
+    "viewAll": "View All"
+  },
+  "watches": {
+    "items": [
+      {
+        "name": "Royal Oak Chronograph",
+        "brand": "Audemars Piguet",
+        "price": "$52,000"
+      },
+      {
+        "name": "Submariner Date",
+        "brand": "Rolex",
+        "price": "$89,000"
+      },
+      {
+        "name": "Speedmaster Moonwatch",
+        "brand": "Omega",
+        "price": "$37,000"
+      },
+      {
+        "name": "Nautilus",
+        "brand": "Patek Philippe",
+        "price": "$145,000"
+      }
+    ],
+    "badges": {
+      "new": "New",
+      "bestseller": "Bestseller",
+      "limited": "Limited"
+    }
+  },
+  "featured": {
+    "subtitle": "Featured Product",
+    "title": "Special Edition",
+    "badge": "Exclusive",
+    "product": {
+      "name": "Tourbillon Grand Complication",
+      "description": "A haute horlogerie masterpiece with a complex tourbillon movement, representing the pinnacle of watchmaking artistry",
+      "price": "$239,000",
+      "cta": "Shop Now"
+    },
+    "items": [
+      {
+        "brand": "Vacheron Constantin",
+        "name": "Patrimony",
+        "description": "Elegant design with ultra-thin movement",
+        "price": "$77,000"
+      },
+      {
+        "brand": "Jaeger-LeCoultre",
+        "name": "Reverso Classic",
+        "description": "Art Deco icon with reversible case",
+        "price": "$41,000"
+      },
+      {
+        "brand": "IWC",
+        "name": "Portugieser Chronograph",
+        "description": "Sporty elegance with chronograph function",
+        "price": "$52,000"
+      }
+    ]
+  },
+  "about": {
+    "subtitle": "Our Story",
+    "title": "Over 50 Years of Excellence",
+    "description": "We are a leading luxury watch distributor, bringing you the world's most prestigious brands with a commitment to authenticity and exceptional service.",
+    "highlights": [
+      {
+        "title": "100% Authentic",
+        "description": "All watches are officially certified with international warranty and authentication"
+      },
+      {
+        "title": "Premium Service",
+        "description": "Expert consultation, lifetime support, and 5-year warranty on all timepieces"
+      },
+      {
+        "title": "Best Price Guarantee",
+        "description": "Competitive pricing with price match guarantee if you find it cheaper elsewhere"
+      }
+    ],
+    "cta": "Learn More"
+  },
+  "contact": {
+    "subtitle": "Get in Touch",
+    "title": "Send Us a Message",
+    "description": "Contact us for free consultation about our luxury watch collection",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message",
+      "submit": "Send Message"
+    }
   },
   "howItWorks": {
     "title": "Get Started in 3 Steps",
@@ -121,25 +241,29 @@
     }
   },
   "footer": {
-    "description": "ClockWork - Smart time tracking solution for teams and individuals",
-    "product": {
-      "title": "Product",
-      "features": "Features",
-      "pricing": "Pricing",
-      "integrations": "Integrations"
+    "description": "LUXE - Premier luxury watch distributor, bringing you the world's most prestigious timepiece brands",
+    "collections": {
+      "title": "Collections",
+      "classic": "Classic",
+      "sport": "Sport",
+      "luxury": "Luxury",
+      "limited": "Limited Edition"
     },
-    "company": {
-      "title": "Company",
-      "about": "About Us",
-      "blog": "Blog",
-      "careers": "Careers"
+    "service": {
+      "title": "Customer Service",
+      "warranty": "Warranty Policy",
+      "shipping": "Shipping",
+      "returns": "Returns",
+      "faq": "FAQ"
     },
-    "support": {
-      "title": "Support",
-      "helpCenter": "Help Center",
-      "contact": "Contact",
-      "privacy": "Privacy Policy"
+    "contact": {
+      "title": "Contact",
+      "address": "123 Nguyen Hue, District 1, Ho Chi Minh City",
+      "phone": "+84 123 456 789",
+      "email": "contact[at]luxe-watches.com"
     },
-    "copyright": "© {year} ClockWork. All rights reserved."
+    "copyright": "© {year} LUXE. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
   }
 }

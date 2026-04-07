@@ -1,10 +1,20 @@
 {
   "nav": {
+    "tagline": "Đồng hồ cao cấp",
+    "collections": "Bộ sưu tập",
+    "featured": "Nổi bật",
+    "about": "Về chúng tôi",
+    "contact": "Liên hệ",
     "features": "Tính năng",
     "howItWorks": "Cách hoạt động",
     "pricing": "Bảng giá",
     "testimonials": "Đánh giá",
     "getStarted": "Bắt đầu ngay"
+  },
+  "mobileMenu": {
+    "quickActions": "Tùy chọn nhanh",
+    "theme": "Chế độ giao diện",
+    "language": "Ngôn ngữ"
   },
   "hero": {
     "badge": "Mới ra mắt - Phiên bản 2.0",
@@ -14,6 +24,9 @@
     },
     "subtitle": "Theo dõi thời gian làm việc, phân tích năng suất và tối ưu hóa hiệu suất nhóm của bạn với ClockWork",
     "stats": {
+      "brands": "Thương hiệu",
+      "watches": "Đồng hồ",
+      "authentic": "Chính hãng",
       "users": "Người dùng",
       "hoursTracked": "Giờ đã theo dõi",
       "uptime": "Thời gian hoạt động"
@@ -21,6 +34,13 @@
     "cta": {
       "primary": "Bắt đầu miễn phí",
       "secondary": "Xem cách hoạt động"
+    },
+    "watch": {
+      "label": "Khám phá ngay"
+    },
+    "badges": {
+      "authentic": "Cam kết chính hãng",
+      "shipping": "Miễn phí vận chuyển"
     },
     "preview": {
       "caption": "Giao diện ClockWork"
@@ -55,6 +75,106 @@
         "description": "Dữ liệu được mã hóa, tuân thủ các tiêu chuẩn bảo mật hàng đầu"
       }
     ]
+  },
+  "collections": {
+    "subtitle": "Khám phá bộ sưu tập",
+    "title": "Đồng Hồ Cao Cấp",
+    "quickView": "Xem nhanh",
+    "viewAll": "Xem tất cả"
+  },
+  "watches": {
+    "items": [
+      {
+        "name": "Royal Oak Chronograph",
+        "brand": "Audemars Piguet",
+        "price": "1.250.000đ"
+      },
+      {
+        "name": "Submariner Date",
+        "brand": "Rolex",
+        "price": "2.150.000đ"
+      },
+      {
+        "name": "Speedmaster Moonwatch",
+        "brand": "Omega",
+        "price": "890.000đ"
+      },
+      {
+        "name": "Nautilus",
+        "brand": "Patek Philippe",
+        "price": "3.500.000đ"
+      }
+    ],
+    "badges": {
+      "new": "Mới",
+      "bestseller": "Bán chạy",
+      "limited": "Giới hạn"
+    }
+  },
+  "featured": {
+    "subtitle": "Sản phẩm nổi bật",
+    "title": "Đồng Hồ Đặc Biệt",
+    "badge": "Độc quyền",
+    "product": {
+      "name": "Tourbillon Grand Complication",
+      "description": "Kiệt tác đồng hồ cao cấp với cỗ máy tourbillon phức tạp, thể hiện đỉnh cao nghệ thuật chế tác",
+      "price": "5.750.000đ",
+      "cta": "Mua ngay"
+    },
+    "items": [
+      {
+        "brand": "Vacheron Constantin",
+        "name": "Patrimony",
+        "description": "Thiết kế thanh lịch, cỗ máy ultra-thin",
+        "price": "1.850.000đ"
+      },
+      {
+        "brand": "Jaeger-LeCoultre",
+        "name": "Reverso Classic",
+        "description": "Biểu tượng Art Deco với mặt sau có thể lật",
+        "price": "980.000đ"
+      },
+      {
+        "brand": "IWC",
+        "name": "Portugieser Chronograph",
+        "description": "Phong cách thể thao sang trọng, chức năng chronograph",
+        "price": "1.250.000đ"
+      }
+    ]
+  },
+  "about": {
+    "subtitle": "Câu chuyện của chúng tôi",
+    "title": "Hơn 50 Năm Kinh Nghiệm",
+    "description": "Chúng tôi là nhà phân phối đồng hồ cao cấp hàng đầu, mang đến những thương hiệu danh tiếng nhất thế giới với cam kết chính hãng và dịch vụ hoàn hảo.",
+    "highlights": [
+      {
+        "title": "Chính Hãng 100%",
+        "description": "Tất cả đồng hồ đều được nhập khẩu chính hãng, có giấy tờ kiểm định và bảo hành quốc tế"
+      },
+      {
+        "title": "Dịch Vụ Cao Cấp",
+        "description": "Đội ngũ chuyên gia tư vấn tận tâm, hỗ trợ trọn đời và bảo hành 5 năm"
+      },
+      {
+        "title": "Giá Tốt Nhất",
+        "description": "Cam kết giá cạnh tranh nhất thị trường, hoàn tiền chênh lệch nếu tìm thấy giá tốt hơn"
+      }
+    ],
+    "cta": "Tìm hiểu thêm"
+  },
+  "contact": {
+    "subtitle": "Liên hệ với chúng tôi",
+    "title": "Gửi Tin Nhắn",
+    "description": "Hãy liên hệ với chúng tôi để được tư vấn miễn phí về các sản phẩm đồng hồ cao cấp",
+    "form": {
+      "name": "Họ và tên",
+      "namePlaceholder": "Nhập họ và tên của bạn",
+      "email": "Email",
+      "emailPlaceholder": "Nhập email của bạn",
+      "message": "Tin nhắn",
+      "messagePlaceholder": "Nhập tin nhắn của bạn",
+      "submit": "Gửi tin nhắn"
+    }
   },
   "howItWorks": {
     "title": "Bắt đầu trong 3 bước",
@@ -121,25 +241,29 @@
     }
   },
   "footer": {
-    "description": "ClockWork - Giải pháp theo dõi thời gian thông minh cho nhóm và cá nhân",
-    "product": {
-      "title": "Sản phẩm",
-      "features": "Tính năng",
-      "pricing": "Bảng giá",
-      "integrations": "Tích hợp"
+    "description": "LUXE - Nhà phân phối đồng hồ cao cấp hàng đầu, mang đến những thương hiệu danh tiếng nhất thế giới",
+    "collections": {
+      "title": "Bộ Sưu Tập",
+      "classic": "Cổ Điển",
+      "sport": "Thể Thao",
+      "luxury": "Cao Cấp",
+      "limited": "Giới Hạn"
     },
-    "company": {
-      "title": "Công ty",
-      "about": "Về chúng tôi",
-      "blog": "Blog",
-      "careers": "Tuyển dụng"
+    "service": {
+      "title": "Dịch Vụ Khách Hàng",
+      "warranty": "Chính Sách Bảo Hành",
+      "shipping": "Vận Chuyển",
+      "returns": "Đổi Trả",
+      "faq": "Câu Hỏi Thường Gặp"
     },
-    "support": {
-      "title": "Hỗ trợ",
-      "helpCenter": "Trung tâm trợ giúp",
-      "contact": "Liên hệ",
-      "privacy": "Chính sách bảo mật"
+    "contact": {
+      "title": "Liên Hệ",
+      "address": "123 Nguyễn Huệ, Quận 1, TP. Hồ Chí Minh",
+      "phone": "+84 123 456 789",
+      "email": "contact[at]luxe-watches.com"
     },
-    "copyright": "© {year} ClockWork. Tất cả quyền được bảo lưu."
+    "copyright": "© {year} LUXE. Tất cả quyền được bảo lưu.",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản sử dụng"
   }
 }
